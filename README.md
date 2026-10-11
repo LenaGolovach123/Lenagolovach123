@@ -1,16 +1,16 @@
 ## Hi there 👋
+LenaGolovach123 
+# Привет! Я Влад 👋
 
-<!--
-**LenaGolovach123/Lenagolovach123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я начинающий веб-разработчик.
 
-Here are some ideas to get you started:
+- ✅ Уже выучил HTML
+- 🌱 Сейчас изучаю CSS
+- 🎯 Хочу научиться создавать красивые и удобные сайты
+- 🚀 Скоро здесь появятся мои проекты!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Технологии
+
+HTML · CSS
+
+Спасибо, что заглянул на мою страницу!
